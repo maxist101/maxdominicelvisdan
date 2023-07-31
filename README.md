@@ -1,1 +1,2 @@
-daniel is with us
+Jessica is with us
+Daniel left
